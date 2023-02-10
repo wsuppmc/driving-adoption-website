@@ -1,6 +1,6 @@
 # Driving Adoption Website
 
-![Driving Adoption](assets/images/site-pic.jpg "Driving Adoption")
+[![Driving Adoption](assets/images/site-pic.jpg "Driving Adoption")](https://wsuppmc.github.io/driving-adoption-website/)
 
 # Credits
 
