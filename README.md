@@ -1,5 +1,7 @@
 # Driving Adoption Website
 
+This landing page contains links to the data and analytics related to the South Kansas Build Back Better Regional Challenge project.
+
 [![Driving Adoption](assets/images/site-pic.jpg "Driving Adoption")](https://wsuppmc.github.io/driving-adoption-website/)
 
 # Credits
