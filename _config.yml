@@ -1,0 +1,45 @@
+# site settings
+title: Wichita State 
+subtitle: University
+email: strategicinitiatives@wichita.edu
+description: Empowering the equitable adoption of productivity enhancing emerging technologies <br /> for sustainable, precision manufacturing competitiveness and profitability.
+baseurl: "/wichita-state-driving-adoption" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Supercharging local economies
+street_address: John Bardo Center, Room 163 <br/> 1815 Innovation Boulevard
+city: Wichita
+state: KS
+zip_code: 67208
+country: United States of America
+phone: (316) 978-5363
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/wsuppmc
+  GitLab:
+  Google-Plus: 
+  Instagram:
+  LinkedIn: https://www.linkedin.com/school/wichita-state-university
+  Twitter: https://twitter.com/wichitastate
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
+- all_posts.md

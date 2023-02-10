@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+    <!-- Banner -->
+    <section id="banner" class="major">
+        <div class="inner">
+            <header class="major">
+                <h1>{{ page.landing-title }}</h1>
+            </header>
+            <div class="content">
+                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                <ul class="actions">
+                    <li><a href="https://www.wichita.edu/research/WSUInitiatives/Driving-Adoption/smart-manufacturing-home.php#" class="button next scrolly">Learn More</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- One -->
+        {% include tiles.html %}
+
+        <!-- Two -->
+        <section id="two">
+            <div class="inner">
+                <header class="major">
+                    <h2>Build Back Better Regional Challenge</h2>
+                </header>
+<!--                 <p style="text-transform: uppercase;">{{ site.author }}</p> -->
+		<p>The Build Back Better Regional Challenge provides transformational investments to develop and strengthen regional industry clusters across the country, embrace equitable economic growth, create good-paying jobs, and enhance U.S. global competitiveness.</p>
+                <ul class="actions">
+                    <li><a href="https://www.eda.gov/funding/programs/american-rescue-plan/build-back-better" class="button next">Learn More</a></li>
+                </ul>
+            </div>
+        </section>
+
+    </div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>
