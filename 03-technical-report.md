@@ -2,7 +2,7 @@
 title: Technical Report
 layout: page
 description: 'Results from the Wichita State University Smart Manufacturing Technologies Survey'
-image: assets/images/MorrisonHall.jpg
+image: assets/images/MorrisonHall.JPG
 nav-menu: true
 ---
 
