@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Data Dashboard
 description: County-Level Measures of Economic Distress & Prosperity 
 image: assets/images/IMG_4663.jpg
