@@ -3,7 +3,7 @@ title: Technical Report
 layout: page
 description: 'Results from the Wichita State University Smart Manufacturing Technologies Survey'
 image: assets/images/MorrisonHall.JPG
-url: https://wichitaedu-my.sharepoint.com/:b:/g/personal/f399y945_wichita_edu/EaQa2fE3c8VLlD8z-29N_PoBOLtNu8MjVhZnnkP37hwI8g
+external_url: https://wichitaedu-my.sharepoint.com/:b:/g/personal/f399y945_wichita_edu/EaQa2fE3c8VLlD8z-29N_PoBOLtNu8MjVhZnnkP37hwI8g
 nav-menu: true
 ---
 
