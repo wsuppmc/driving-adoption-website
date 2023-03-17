@@ -11,12 +11,13 @@
     </span>
     <header class="major">
 <!--       <h3><a href="{{ tile.url  | absolute_url }}" class="link">{{ tile.title }}</a></h3> -->
-      {% if post.external_url %}
+      {% if tile.external_url %}
       <a href="{{ tile.external_url }}">{{ tile.title }}</a>
       {% else %}
       <a href="{{ tile.url }}">{{ tile.title }}</a>
-      {% endif %}
       <p>{{ tile.description }}</p>
+      {% endif %}
+<!--       <p>{{ tile.description }}</p> -->
     </header>
   </article>
   {% endfor %}
