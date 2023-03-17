@@ -12,12 +12,12 @@
     <header class="major">
 <!--       <h3><a href="{{ tile.url  | absolute_url }}" class="link">{{ tile.title }}</a></h3> -->
       {% if tile.external_url %}
-      <a href="{{ tile.external_url }}">{{ tile.title }}</a>
+      <h3><a href="{{ tile.external_url }}">{{ tile.title }}</a></h3>
       {% else %}
-      <a href="{{ tile.url }}">{{ tile.title }}</a>
-      <p>{{ tile.description }}</p>
-      {% endif %}
+      <h3><a href="{{ tile.url }}">{{ tile.title }}</a></h3>
 <!--       <p>{{ tile.description }}</p> -->
+      {% endif %}
+      <p>{{ tile.description }}</p>
     </header>
   </article>
   {% endfor %}
