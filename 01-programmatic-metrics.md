@@ -3,7 +3,7 @@ layout: page
 title: Programmatic Metrics
 description: Forthcoming
 image: assets/images/IMG_2826.jpg
-url: https://www.wichita.edu/research/WSUInitiatives/Driving-Adoption/smart-manufacturing-home.php#
+external_url: https://www.wichita.edu/research/WSUInitiatives/Driving-Adoption/smart-manufacturing-home.php#
 nav-menu: true
 ---
 
