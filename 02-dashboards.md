@@ -3,7 +3,7 @@ layout: page
 title: Data Dashboard
 description: County-Level Measures of Economic Distress & Prosperity 
 image: assets/images/IMG_4663.jpg
-external_url: http://wsuppmc.pythonanywhere.com/
+external_url: https://wsuppmc.github.io/driving-adoption-metrics/Quartopage.html
 nav-menu: true
 ---
 
