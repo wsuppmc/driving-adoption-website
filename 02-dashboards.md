@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Dashboard
+title: Ecosystem Metrics
 description: County-Level Measures of Economic Distress & Prosperity 
 image: assets/images/IMG_4663.jpg
 external_url: https://wsuppmc.github.io/driving-adoption-metrics/Quartopage.html
