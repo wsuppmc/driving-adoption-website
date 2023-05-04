@@ -1,7 +1,7 @@
 ---
-title: Talent Roadmap
+title: The Talent Roadmap
 layout: page
-description: 'Results from the Wichita State University Smart Manufacturing Technologies Survey'
+description: 'Building a Community That Defies Expectations'
 image: assets/images/P1060220.JPG
 external_url: https://greaterwichitapartnership.org/data-resources/talent-roadmap
 nav-menu: true
