@@ -1,7 +1,7 @@
 # site settings
 title: Wichita State 
 subtitle: University
-email: strategicinitiatives@wichita.edu
+email: SMARTManufacturing@wichita.edu
 description: Empowering the equitable adoption of productivity enhancing emerging technologies <br /> for sustainable, precision manufacturing competitiveness and profitability.
 baseurl: "/wichita-state-driving-adoption" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
