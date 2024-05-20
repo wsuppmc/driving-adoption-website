@@ -3,7 +3,7 @@ layout: page
 title: Ecosystem Metrics
 description: County-Level Measures of Economic Distress & Prosperity 
 image: assets/images/IMG_4663.jpg
-external_url: https://wsuppmc.github.io/driving-adoption-metrics/Quartopage.html
+external_url: https://wichitaedu-my.sharepoint.com/:b:/g/personal/f399y945_wichita_edu/EfOSk1FikTVFgFiAt7wz85sBvZ-R2Tvd_o_HcJCH2sQuIg?e=fXpsWM
 nav-menu: true
 ---
 
